@@ -1,0 +1,11 @@
+platform 
+tech stack -  Python
+Backend - FAST API - AI/ML
+Frontend - html,css - Next.js
+Database - Supabase
+
+
+
+FAST API - project based
+FLASK - obsolete
+Django - enterprise
